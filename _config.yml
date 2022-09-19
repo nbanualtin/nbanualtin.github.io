@@ -67,10 +67,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # nbanualtin
+github_username: nbanualtin
 gitlab_username: # your GitLab user name
-twitter_username: # NBanuAltin
-linkedin_username: # nbanualtin
+twitter_username: NBanuAltin
+linkedin_username: nbanualtin
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 orcid_id: # your ORCID ID
