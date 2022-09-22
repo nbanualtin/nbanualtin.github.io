@@ -9,10 +9,14 @@ nav_order: 5
 
 # 2022
 
+-----
+
 ## spring 
 Computer-Aided Drafting and Solid Modeling, ***Sabancı University***
 
 # 2019
+
+-----
 
 ## fall
 Calculus I, ***Sabancı University***
