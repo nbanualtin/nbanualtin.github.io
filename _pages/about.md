@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sabancı University</a>. nbanualtin@gmail.com
+subtitle: <a href='#'>Sabancı University</a> nuraltin@sabanciuniv.edu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
+    <p>Orta, 27, Tuzla, Istanbul, 34956</p>
     <p>Faculty of Engineering and Natural Sciences</p>
-    <p>Orta, 27</p>
-    <p>Tuzla, Istanbul 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
