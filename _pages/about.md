@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-***Materials Science and Nano Engineering Undergraduate*** Sabancı University, Istanbul, Turkey
+***Materials Science and Nano Engineering Graduate*** Sabancı University, Istanbul, Turkey
 
 ***Soft Robotics Research Intern*** The University of Manchester, Manchester, United Kingdom
 
